@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root{
+  --sm-spacing:16px;
+  --md-spacing:18px;
+  --lg-spacing:20px;
+  --full-spacing:24px;
+  --radius:16px;
+}
+
+body {
+  font-family: var(--font-lexend), sans-serif;
+}
